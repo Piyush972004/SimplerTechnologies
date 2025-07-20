@@ -4,6 +4,14 @@ This project is a simple, user-friendly listing page built as part of an interns
 
 ---
 
+## 🌐 **Live Preview**
+
+Experience right now:
+
+[![Live Preview](https://img.shields.io/badge/Live-Preview-brightgreen?style=for-the-badge&logo=django)](https://simplertech.netlify.app/)
+
+
+
 ## 🚀 Features
 
 - ✅ Fetches data from a local static `data.json` file using `axios`
