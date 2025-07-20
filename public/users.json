@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "mobile": "+1 (555) 123-4567",
+      "status": "active",
+      "role": "Software Engineer",
+      "department": "Engineering",
+      "joinDate": "2023-01-15"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "mobile": "+1 (555) 234-5678",
+      "status": "inactive",
+      "role": "Product Manager",
+      "department": "Product",
+      "joinDate": "2022-11-20"
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "email": "mike.johnson@example.com",
+      "mobile": "+1 (555) 345-6789",
+      "status": "active",
+      "role": "UX Designer",
+      "department": "Design",
+      "joinDate": "2023-03-10"
+    },
+    {
+      "id": 4,
+      "name": "Sarah Wilson",
+      "email": "sarah.wilson@example.com",
+      "mobile": "+1 (555) 456-7890",
+      "status": "pending",
+      "role": "Data Analyst",
+      "department": "Analytics",
+      "joinDate": "2023-05-22"
+    },
+    {
+      "id": 5,
+      "name": "David Brown",
+      "email": "david.brown@example.com",
+      "mobile": "+1 (555) 567-8901",
+      "status": "active",
+      "role": "DevOps Engineer",
+      "department": "Engineering",
+      "joinDate": "2022-09-05"
+    },
+    {
+      "id": 6,
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "mobile": "+1 (555) 678-9012",
+      "status": "active",
+      "role": "Marketing Manager",
+      "department": "Marketing",
+      "joinDate": "2023-02-18"
+    },
+    {
+      "id": 7,
+      "name": "Robert Miller",
+      "email": "robert.miller@example.com",
+      "mobile": "+1 (555) 789-0123",
+      "status": "inactive",
+      "role": "Sales Representative",
+      "department": "Sales",
+      "joinDate": "2022-12-01"
+    },
+    {
+      "id": 8,
+      "name": "Lisa Garcia",
+      "email": "lisa.garcia@example.com",
+      "mobile": "+1 (555) 890-1234",
+      "status": "active",
+      "role": "HR Specialist",
+      "department": "Human Resources",
+      "joinDate": "2023-04-14"
+    },
+    {
+      "id": 9,
+      "name": "James Taylor",
+      "email": "james.taylor@example.com",
+      "mobile": "+1 (555) 901-2345",
+      "status": "pending",
+      "role": "Quality Assurance",
+      "department": "Engineering",
+      "joinDate": "2023-06-08"
+    },
+    {
+      "id": 10,
+      "name": "Amanda White",
+      "email": "amanda.white@example.com",
+      "mobile": "+1 (555) 012-3456",
+      "status": "active",
+      "role": "Financial Analyst",
+      "department": "Finance",
+      "joinDate": "2022-10-30"
+    }
+  ]
+}
